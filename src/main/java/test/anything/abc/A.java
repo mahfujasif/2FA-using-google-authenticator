@@ -1,6 +1,5 @@
 package test.anything.abc;
 
-
 import org.jboss.aerogear.security.otp.Totp;
 import org.jboss.aerogear.security.otp.api.*;
 import org.springframework.http.MediaType;

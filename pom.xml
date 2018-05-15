@@ -45,7 +45,18 @@
             <artifactId>aerogear-otp-java</artifactId>
             <version>1.0.0</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/de.taimos/totp -->
+        <dependency>
+            <groupId>de.taimos</groupId>
+            <artifactId>totp</artifactId>
+            <version>1.0</version>
+        </dependency>
+
+
     </dependencies>
+
+
 
     <build>
         <plugins>
