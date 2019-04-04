@@ -1,4 +1,4 @@
-package test.anything.abc;
+package com.asif.totp.controllers;
 
 import org.jboss.aerogear.security.otp.Totp;
 import org.jboss.aerogear.security.otp.api.*;
@@ -17,7 +17,7 @@ import java.security.NoSuchAlgorithmException;
 @RestController
 @Validated
 @RequestMapping(path = "test", produces = MediaType.APPLICATION_JSON_VALUE)
-public class A {
+public class TotpController {
 
     String secret = "JEKVTGFAOEZPFE7N";
 
