@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>SpringBootTestProject</groupId>
-    <artifactId>TestAnything</artifactId>
+    <artifactId>com.asif.2fa_using_google_authenticator</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
